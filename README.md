@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # qa-test-tdd
 
 Este proyecto contiene una calculadora simple y pruebas automatizadas usando Jest.
@@ -39,3 +40,7 @@ test("debería sumar dos números", () => {
   expect(suma(2, 3)).toBe(5);
 });
 ```
+=======
+# fibonacci-ejercicio2
+Ejercicio2-TDD-ErickRolandoApazaVilca
+>>>>>>> c3a6eed9b2fad9028b2fd9be567b4044cd96e80c
